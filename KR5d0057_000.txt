@@ -1,8 +1,0 @@
-# -*- mode: mandoku-view -*-
-#+TITLE: 太玄寶典
-#+DATE: 2015-08-29 02:02:06
-#+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
