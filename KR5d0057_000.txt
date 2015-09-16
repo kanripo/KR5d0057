@@ -1,8 +1,7 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
+#+DATE: 2015-08-29 02:02:05.271545
 #+TITLE: 太玄寶典
-#+DATE: 2015-08-29 02:02:06
+#+PROPERTY: DZID  DZ1034
+#+PROPERTY: SOURCE  正統道藏，三家本，1988，22—871 三卷 太玄部
 #+PROPERTY: BASEEDITION HFL
-#+PROPERTY: WITNESS CK-KZ
-#+PROPERTY: JUAN 0
-
-
+#+PROPERTY: WITNESS HFL
